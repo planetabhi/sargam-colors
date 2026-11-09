@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "docs-style-guide": {
+      "source": "planetabhi/skills",
+      "sourceType": "github",
+      "skillPath": "skills/docs-style-guide/SKILL.md",
+      "computedHash": "db14fad6b98e3214ea6411ed3c6406da4e625e97ab0ea3ee34ea2d580ea9dd0c"
+    }
+  }
+}
